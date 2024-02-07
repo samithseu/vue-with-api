@@ -10,3 +10,7 @@ html {
   font-family: "KhmerMool1";
   src: url("./assets/fonts/KHMMOOL1.ttf");
 }
+
+::selection {
+  @apply bg-green-500 text-white;
+}
