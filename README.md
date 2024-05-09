@@ -1,4 +1,6 @@
-# .
+# VUE WITH API
+This project was created to be working with public API.
+---
 
 This template should help get you started developing with Vue 3 in Vite.
 
